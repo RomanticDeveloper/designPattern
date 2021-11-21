@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4ab9600-b2c8-4c6d-9be5-695935690c70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21E6TkOPfXSTiZiCOjJHn0yPjxW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.design.Main" />
+      <module name="design" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ab9600-b2c8-4c6d-9be5-695935690c70" name="Default Changelist" comment="" />
+      <created>1637493910230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637493910230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1292" height="259" key="GridCell.Tab.0.bottom" timestamp="1637494584475">
+      <screen x="1680" y="-782" width="2560" height="1352" />
+    </state>
+    <state width="1292" height="259" key="GridCell.Tab.0.bottom/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@1680.-782.2560.1352" timestamp="1637494584475" />
+    <state width="1292" height="259" key="GridCell.Tab.0.center" timestamp="1637494584474">
+      <screen x="1680" y="-782" width="2560" height="1352" />
+    </state>
+    <state width="1292" height="259" key="GridCell.Tab.0.center/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@1680.-782.2560.1352" timestamp="1637494584474" />
+    <state width="1292" height="259" key="GridCell.Tab.0.left" timestamp="1637494584473">
+      <screen x="1680" y="-782" width="2560" height="1352" />
+    </state>
+    <state width="1292" height="259" key="GridCell.Tab.0.left/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@1680.-782.2560.1352" timestamp="1637494584473" />
+    <state width="1292" height="259" key="GridCell.Tab.0.right" timestamp="1637494584474">
+      <screen x="1680" y="-782" width="2560" height="1352" />
+    </state>
+    <state width="1292" height="259" key="GridCell.Tab.0.right/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@1680.-782.2560.1352" timestamp="1637494584474" />
+    <state x="868" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1637493918666">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="868" y="338" key="com.intellij.ide.util.TipDialog/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@0.23.1680.1027" timestamp="1637493918666" />
+    <state x="3238" y="-570" width="670" height="676" key="search.everywhere.popup" timestamp="1637494558981">
+      <screen x="1680" y="-782" width="2560" height="1352" />
+    </state>
+    <state x="3238" y="-570" width="670" height="676" key="search.everywhere.popup/4240.-1098.1440.2537/1680.-782.2560.1352/0.23.1680.1027@1680.-782.2560.1352" timestamp="1637494558981" />
+  </component>
+</project>
