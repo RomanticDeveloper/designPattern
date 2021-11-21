@@ -15,6 +15,7 @@ import com.company.design.proxy.IBrowser;
 import com.company.design.singleton.Aclazz;
 import com.company.design.singleton.Bclazz;
 import com.company.design.singleton.SocketClient;
+import com.company.design.strategy.*;
 
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -146,6 +147,37 @@ public class Main {
 
          */
 
+
+        //7. Strategy
+
+        //전략객체를 사용하는 컨텍스트
+        Encoder encoder = new Encoder();
+
+        //전략객체
+        //base64
+        EncodingStrategy base64 = new Base64Strategy();
+
+        //normal
+        EncodingStrategy normal = new NormalStrategy();
+
+        //append
+        EncodingStrategy append = new AppendStrategy();
+
+
+        String message = "hello java";
+        encoder.setEncodingStrategy(base64);
+        String base64Result = encoder.getMessage(message);
+
+        System.out.println(base64Result);
+
+        encoder.setEncodingStrategy(normal);
+        String normalResult = encoder.getMessage(message);
+        System.out.println(normalResult);
+
+
+        encoder.setEncodingStrategy(append);
+        String appendResult = encoder.getMessage(message);
+        System.out.println(appendResult);
 
 
 
